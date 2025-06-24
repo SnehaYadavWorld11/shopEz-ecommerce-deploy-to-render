@@ -74,34 +74,34 @@ npm run dev
 1. *User Registration and Login*:
    - Register as a new user or log in with existing credentials.
      
-![Screenshot 2025-04-11 142955](https://github.com/user-attachments/assets/508ad3a0-6334-4e09-b2ba-b9338c30fd56)
+![Screenshot 2025-04-11 142955](https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render/blob/9e3a8d4b5af70018977b2d43019d7aafe8f5bd35/client/assets/Screenshot%202025-06-24%20160456.png)
 
-![Screenshot 2025-04-11 143135](https://github.com/user-attachments/assets/adc9955b-619b-49eb-9b80-c19a0f006f3d)
+![Screenshot 2025-04-11 143135](https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render/blob/9e3a8d4b5af70018977b2d43019d7aafe8f5bd35/client/assets/Screenshot%202025-06-24%20160442.png)
 
-![Screenshot 2025-04-11 142834](https://github.com/user-attachments/assets/2e4bfcdd-1343-45bc-9270-4f91321ec0e4)
+![Screenshot 2025-04-11 142834](https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render/blob/fd3ed2a19581d9c4da0d4fedd2ffa0e149bba271/client/assets/Screenshot%202025-06-24%20161101.png)
 
 2. *Product Browsing and Filtering*:
    - Filter products by categories, gender, popularity, price (low to high or high to low).
      
-![Screenshot 2025-04-11 143402](https://github.com/user-attachments/assets/67dbaee7-13a6-48ee-ba5a-59ea050d6cd2)
+![Screenshot 2025-04-11 143402](https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render/blob/6b75b235428fbf4f90e0e16dfd717b9acc586bbb/client/assets/Screenshot%202025-06-24%20161251.png)
 
 3. *Shopping Cart*:
    - Add products to the cart and proceed to checkout.
 
-![Screenshot 2025-04-11 164804](https://github.com/user-attachments/assets/85609028-bc6c-44ac-bcb2-465151a9ba5c)
-![Screenshot 2025-04-11 170609](https://github.com/user-attachments/assets/136f11ff-c3bb-4dda-a278-861dd072d6de)
+![Screenshot 2025-04-11 164804](https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render/blob/501c1c894d04d7b8de6d43c0a91c5ae6a19f77d6/client/assets/Screenshot%202025-06-24%20161545.png)
+![Screenshot 2025-04-11 170609](https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render/blob/a3eb400c3b938a0b18453db2909557ca12c0e3e7/client/assets/Screenshot%202025-06-24%20161753.png)
 
 4. *Checkout and Order Placement*:
    - Provide details such as address, city, pincode, mobile number, notesto place an order.
      
-![Screenshot 2025-04-11 143534](https://github.com/user-attachments/assets/a81295aa-db83-4cee-9596-78e293e220b6)
+![Screenshot 2025-04-11 143534](https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render/blob/c6f6233abcc93b32af24ef5d1499cdd8ffaf34f0/client/assets/Screenshot%202025-06-24%20162159.png)
 
-![Screenshot 2025-04-11 143633](https://github.com/user-attachments/assets/3b393591-da0a-43b3-b717-34533cfdf8de)
+![Screenshot 2025-04-11 143633](https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render/blob/c6f6233abcc93b32af24ef5d1499cdd8ffaf34f0/client/assets/Screenshot%202025-06-24%20162417.png)
 
 5. *Order Details*:
    - View orders from the user profile page.
 
-![Screenshot 2025-04-11 143947](https://github.com/user-attachments/assets/abc996ef-efdb-4921-adf2-b89761228c9d)
+![Screenshot 2025-04-11 143947](https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render/blob/c6f6233abcc93b32af24ef5d1499cdd8ffaf34f0/client/assets/Screenshot%202025-06-24%20162455.png)
 
 
 ### Admin Features
@@ -110,28 +110,30 @@ npm run dev
      - *Email*: admin@gmail.com
      - *Password*: admin
 
-![Screenshot 2025-04-11 144043](https://github.com/user-attachments/assets/9d1689e7-1457-4a11-b247-4472dde8741f)
+![Screenshot 2025-04-11 144043](https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render/blob/4f44a6cf942bc794db63ac62361e0e4083b79fc8/client/assets/Screenshot%202025-06-24%20163000.png)
+
+
+
 
 2. *Order Management*:
    - View the total number of orders and their details, including the number of orders placed by each user.
 
-![Screenshot 2025-04-11 144144](https://github.com/user-attachments/assets/6983805c-c3d8-43f1-a247-2431491adc39)
+![Screenshot 2025-04-11 144043](https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render/blob/4525871f9a8a8bce51c953181c023cc248970509/client/assets/Screenshot%202025-06-24%20163206.png)
 
-![Screenshot 2025-04-11 144245](https://github.com/user-attachments/assets/ae4b46a4-5309-4484-8934-3086603c26f6)
 
 
 3. *Product Management*:
    - Add, update, or remove products.
    - Add products with categories, images, brands, etc.
 
-![Screenshot 2025-04-11 144110](https://github.com/user-attachments/assets/70d43c2d-fb2d-4fba-9d36-4bc96edfde1f)
+![Screenshot 2025-04-11 144110](https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render/blob/320d7092dc9d857b786b42a286d33bb7765f669e/client/assets/Screenshot%202025-06-24%20163555.png)
 
-![image](https://github.com/user-attachments/assets/4b4df83d-5ff2-471f-869a-8019e9455a2e)
 
 4. *Order Management*:
    - View all placed orders, update their status (e.g., Order Placed, In Transit, Delivered), and cancel orders if necessary.
 
-![Screenshot 2025-04-11 144245](https://github.com/user-attachments/assets/b6387410-bd27-4c96-aeeb-8b28f5c170fc)![image](https://github.com/user-attachments/assets/e0a86630-c973-4c9f-8116-bbd0b5a69668)
+![Screenshot 2025-04-11 144245](https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render/blob/985325b32e85308b506979b0606f17b57ad5bc98/client/assets/Screenshot%202025-06-24%20163840.png)
+
 
 ## Tech Stack
 - *Frontend*: React, CSS, Redux Toolkit
