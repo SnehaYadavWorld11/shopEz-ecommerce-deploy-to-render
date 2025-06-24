@@ -12,8 +12,7 @@ ShopEZ is a full-stack e-commerce application built using the MERN stack (MongoD
    - [Admin Features](#admin-features)
 6. [Tech Stack](#tech-stack)
 7. [Deploy to Render](#deploy-to-render)
-8. [Project Report](#project-report)
-9. [Demo Video](#demo-video)
+8. [Demo Video](#demo-video)
 
 ---
 
@@ -143,8 +142,6 @@ npm run dev
 ## Deploy-To-Render
 https://shopez-ecommerce-deploy-to-render-1.onrender.com
 
-## Project Report
-https://drive.google.com/drive/folders/14kvTuDGft9AUMGe1DLKJdONmnJO80D-q?usp=sharing
 
 ## Demo Video
 - Watch a quick demo showcasing the installation process, as well as the features and functionalities of the ShopEZ Ecommerce Application. The demo will cover both user and admin functionalities.
