@@ -42,7 +42,7 @@ function UserCartItemsContent({ cartItem }) {
         userId: user?.id,
         productId: getCartItem?.productId,
         quantity:
-          typeOfAction === "plus"
+          typeOfAction == "plus"
             ? getCartItem?.quantity + 1
             : getCartItem?.quantity - 1,
       })
