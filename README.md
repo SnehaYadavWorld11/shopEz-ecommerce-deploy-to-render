@@ -11,8 +11,9 @@ ShopEZ is a full-stack e-commerce application built using the MERN stack (MongoD
    - [User Features](#user-features)
    - [Admin Features](#admin-features)
 6. [Tech Stack](#tech-stack)
-7. .[Project Report](#project-report)
-8. [Demo Video](#demo-video)
+7. [Deploy to Render](#deploy-to-render)
+8. [Project Report](#project-report)
+9. [Demo Video](#demo-video)
 
 ---
 
@@ -26,8 +27,8 @@ The project is organized into two main folders:
 
 ### 1. Clone the Repository
  bash
-git clone https://github.com/SnehaYadavWorld11/Mern_Stack-ShopEZ.git
-cd Mern_Stack-ShopE
+git clone https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render.git
+cd shopEz-ecommerce-deploy-to-render
 
 
 ### 2. Install Dependencies
