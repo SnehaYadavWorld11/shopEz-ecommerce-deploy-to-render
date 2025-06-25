@@ -7,10 +7,10 @@ ShopEZ is a full-stack e-commerce application built using the MERN stack (MongoD
 2. [Installation](#installation)
 3. [Environment Variables](#environment-variables)
 4. [Usage](#usage)
-5. [Features](#features)
+5. [Tech Stack](#tech-stack)
+6. [Features](#features)
    - [User Features](#user-features)
    - [Admin Features](#admin-features)
-6. [Tech Stack](#tech-stack)
 7. [Deploy to Render](#deploy-to-render)
 8. [Demo Video](#demo-video)
 
@@ -65,6 +65,12 @@ The client will start on port 3000 by default.
  bash
 cd client
 npm run dev
+
+
+## Tech Stack
+- *Frontend*: React, CSS, Redux Toolkit
+- *Backend*: Node.js, Express.js
+- *Database*: MongoDB
 
 
 ## Features
@@ -134,10 +140,6 @@ npm run dev
 ![Screenshot 2025-04-11 144245](https://github.com/SnehaYadavWorld11/shopEz-ecommerce-deploy-to-render/blob/985325b32e85308b506979b0606f17b57ad5bc98/client/assets/Screenshot%202025-06-24%20163840.png)
 
 
-## Tech Stack
-- *Frontend*: React, CSS, Redux Toolkit
-- *Backend*: Node.js, Express.js
-- *Database*: MongoDB
 
 ## Deploy-To-Render
 https://shopez-ecommerce-deploy-to-render-1.onrender.com
